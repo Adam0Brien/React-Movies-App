@@ -27,10 +27,12 @@ To make it easier to explore a large collection of movies, the app includes a pa
 To run this application locally, follow these steps:
 
 1. Clone the repository to your local machine:
-2. npm install any necessary dependancies
-3. npm start
+2. Add the correct .env details
+3. npm install any necessary dependancies
+4. npm start
    ```shell
    git clone https://github.com/Adam0Brien/React-Movies-App.git
+   echo -e "REACT_APP_TMDB_KEY=<api-key>\nFAST_REFRESH=false" > .env
    npm install
    npm start
    ```
