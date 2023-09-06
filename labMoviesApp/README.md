@@ -3,7 +3,7 @@
 
 ## Features
 
-![Favorite Movies](favMovies.png)
+![Favorite Movies](img/favMovies.png)
 
 ### Liking Movies
 
@@ -13,7 +13,7 @@ One of the key features of this app is the ability to like your favorite movies.
 
 Another handy feature is the "Watch Later" functionality. If you come across a movie you want to watch but don't have time for right now, you can add it to your "Watch Later" list.
 
-![Must-Watch Movies](mustWatchMovies.png)
+![Must-Watch Movies](img/mustWatchMovies.png)
 
 ### Pagination
 
