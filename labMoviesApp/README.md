@@ -3,11 +3,12 @@
 
 ## Features
 
-![Favorite Movies](img/favMovies.png)
 
 ### Liking Movies
 
 One of the key features of this app is the ability to like your favorite movies. You can easily mark movies as your favorites, and they will be saved for easy access in your "Favorite Movies" list.
+
+![Favorite Movies](img/favMovies.png)
 
 ### Watch Later
 
