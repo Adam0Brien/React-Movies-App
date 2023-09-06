@@ -20,6 +20,8 @@ Another handy feature is the "Watch Later" functionality. If you come across a m
 
 To make it easier to explore a large collection of movies, the app includes a pagination system. You can navigate through multiple pages of movie listings.
 
+![Pagination](img/pagination.png)
+
 ## Getting Started
 
 To run this application locally, follow these steps:
